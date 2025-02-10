@@ -61,9 +61,10 @@ Sometimes, Elan HID Touchpad, Keyboard, and USB will not working because of bad 
 ## Post-install
 
 ### What is working?
-- 
+- Almost all
 ### What is not working?
-- 
+- Camera
+- Sleep
 
 ## What's in the box?
 ```
