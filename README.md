@@ -4,6 +4,8 @@
 
 **macOS: Ventura 13.7.2**
 
+**Status: Booted**
+
 ## Preparing
 
 ### SSDTs
@@ -119,9 +121,9 @@ Sometimes, Elan HID Touchpad, Keyboard, and USB will not working because of bad 
 │       │   ├── Audio
 │       │   ├── Font
 │       │   ├── Image
-│       │   └── Label
+│       │   ├── Label
 │       └── Tools
 │           ├── CleanNvram.efi
-│           ├── OpenShell.efi
+│           └── OpenShell.efi
 
 ```
