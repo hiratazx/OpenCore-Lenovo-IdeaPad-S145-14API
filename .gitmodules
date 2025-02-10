@@ -1,0 +1,9 @@
+[submodule "SSDTTime"]
+	path = SSDTTime
+	url = https://github.com/corpnewt/SSDTTime
+[submodule "GenSMBIOS"]
+	path = GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS
+[submodule "ProperTree"]
+	path = ProperTree
+	url = https://github.com/corpnewt/ProperTree
